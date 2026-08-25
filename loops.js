@@ -10,7 +10,7 @@ for (i=0; i<10; i++){
 
 //how to display tthe array elements using for loop
 
-let item = ["banana", "mango", "apple", 23];
+let item = ["banana", "orange", "apple", 23];
 // let val=0;
 
 for (let val of item){
